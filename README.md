@@ -15,6 +15,16 @@ Each slice can offer unique combinations of bandwidth, latency, and reliability.
 
 ---
 
+# Video Presentation
+https://drive.google.com/file/d/1pubPEWgnrXR35Rwz6-fZ2PEbfdZIlSbW/view?usp=sharing
+
+---
+
+# Report
+https://www.overleaf.com/read/ymcgzddjbhdm#f5b951
+
+---
+
 ## Project Overview
 This project explores the concept of network slicing through simulation. By modeling different slices (eMBB, URLLC, and mMTC), the project demonstrates dynamic resource allocation under varying traffic loads and interference conditions. 
 The simulation reflects real-world challenges in managing 5G networks, such as traffic fluctuations and external interference. Visualizations of the simulation results provide insights into how network slicing efficiently allocates resources, ensuring quality of service (QoS) across slices, even under challenging conditions. 
